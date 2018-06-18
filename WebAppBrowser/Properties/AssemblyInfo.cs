@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WpfWebBrowser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("WebAppBrowser")]
+[assembly: AssemblyDescription("Web Application Browser")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WpfWebBrowser")]
+[assembly: AssemblyCompany("Miroslav Božík")]
+[assembly: AssemblyProduct("WebAppBrowser")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

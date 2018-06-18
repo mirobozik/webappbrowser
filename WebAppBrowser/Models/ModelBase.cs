@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using WpfWebBrowser.Annotations;
+using WebAppBrowser.Properties;
 
-namespace WpfWebBrowser.Models
+namespace WebAppBrowser.Models
 {
     public class ModelBase : INotifyPropertyChanged
     {

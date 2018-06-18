@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel;
 using System.Configuration;
 using System.Windows;
-using WpfWebBrowser.Properties;
+using WebAppBrowser.Properties;
 
-namespace WpfWebBrowser.Models
+namespace WebAppBrowser.Models
 {
     public class MainWindowModel : ModelBase
     {

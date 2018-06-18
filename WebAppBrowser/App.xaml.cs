@@ -1,6 +1,7 @@
 ﻿using System.Windows;
+using WebAppBrowser.Properties;
 
-namespace WpfWebBrowser
+namespace WebAppBrowser
 {
     /// <summary>
     /// Interaction logic for App.xaml
@@ -9,7 +10,7 @@ namespace WpfWebBrowser
     {
         private void App_OnExit(object sender, ExitEventArgs e)
         {
-            WpfWebBrowser.Properties.Settings.Default.Save();            
+            Settings.Default.Save();            
         }
     }
 }

@@ -1,11 +1,8 @@
-﻿using System;
-using System.Windows;
-using System.Windows.Input;
-using System.Windows.Navigation;
+﻿using System.Windows;
 using Microsoft.Win32;
-using WpfWebBrowser.Models;
+using WebAppBrowser.Models;
 
-namespace WpfWebBrowser
+namespace WebAppBrowser
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
